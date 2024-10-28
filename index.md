@@ -31,11 +31,11 @@ TS/TV - Test Vectors and Test Suite (For Device Playback Capabilities)
 ### WHO IS USING
 CTA WAVE, HbbTV, ATSC
 ### WHERE TO FIND
-- Main Test Suite Repo: https://github.com/cta-wave/dpctf-deploy (uses the individual repos below)
-- Mezzanine Repo: https://github.com/cta-wave/mezzanine
-- Test Content Repo: https://github.com/cta-wave/Test-Content
-- Test Runner Repos: https://github.com/cta-wave/dpctf-tests; https://github.com/cta-wave/dpctf-test-runner 
-- Observation Framework: https://github.com/cta-wave/device-observation-framework
+- Main Test Suite Repo: [https://github.com/cta-wave/dpctf-deploy](https://github.com/cta-wave/dpctf-deploy) (uses the individual repos below)
+- Mezzanine Repo: [https://github.com/cta-wave/mezzanine](https://github.com/cta-wave/mezzanine)
+- Test Content Repo: [https://github.com/cta-wave/Test-Content](https://github.com/cta-wave/Test-Content)
+- Test Runner Repos: [https://github.com/cta-wave/dpctf-tests](https://github.com/cta-wave/dpctf-tests); [https://github.com/cta-wave/dpctf-test-runner](https://github.com/cta-wave/dpctf-test-runner)
+- Observation Framework: [https://github.com/cta-wave/device-observation-framework](https://github.com/cta-wave/device-observation-framework)
 
 ***
 
@@ -50,8 +50,8 @@ CS - Conformance
 ### WHO IS USING
 DASH-IF, DVB, HbbTV,CMAF, CTA-WAVE
 ### WHERE TO FIND
-- https://github.com/Dash-Industry-Forum/DASH-IF-Conformance
-- https://conformance.dashif.org/
+- [https://github.com/Dash-Industry-Forum/DASH-IF-Conformance](https://github.com/Dash-Industry-Forum/DASH-IF-Conformance)
+- [https://conformance.dashif.org/](https://conformance.dashif.org/)
 
 ## DASH-IF livesim2
 ### SUMMARY
@@ -61,9 +61,9 @@ TV - Live Test Vectors to test timing aspects but also as a source of live strea
 ### WHO IS USING
 DASH-IF, HbbTV, DVB, 5G-MAG
 ### WHERE TO FIND
-- Available source code including short test content at https://github.com/Dash-Industry-Forum/livesim2
-- Live at https://livesim2.dashif.org (limited to 10000 requests/24h/IP)
-- An example is live also at https://refapp.hbbtv.org/testing/catalogue/ under “Live”-tab
+- Available source code including short test content at [https://github.com/Dash-Industry-Forum/livesim2](https://github.com/Dash-Industry-Forum/livesim2)
+- Live at [https://livesim2.dashif.org](https://livesim2.dashif.org) (limited to 10000 requests/24h/IP)
+- An example is live also at [https://refapp.hbbtv.org/testing/catalogue/](https://refapp.hbbtv.org/testing/catalogue/) under “Live”-tab
 
 ## Dash.js
 ### SUMMARY
@@ -73,7 +73,7 @@ RS - Reference implementation, available for testing and also commercial product
 ### WHO IS USING
 DASH-IF, DVB, HbbTV, CTA-WAVE, 5G-MAG
 ### WHERE TO FIND
-- https://github.com/Dash-Industry-Forum/dash.js/
+- [https://github.com/Dash-Industry-Forum/dash.js/](https://github.com/Dash-Industry-Forum/dash.js/)
 
 ***
 
@@ -87,8 +87,8 @@ RS - Reference implementation, V&V
 ### WHO IS USING
 DVB, HbbTV
 ### WHERE TO FIND
-- CSR: https://github.com/DVBProject/DVB-I-Reference-CSR
-- DVB-I Reference Client: https://github.com/DVBproject/DVB-I-Reference-Client
+- CSR: [https://github.com/DVBProject/DVB-I-Reference-CSR](https://github.com/DVBProject/DVB-I-Reference-CSR)
+- DVB-I Reference Client: [https://github.com/DVBproject/DVB-I-Reference-Client](https://github.com/DVBproject/DVB-I-Reference-Client)
 
 ***
 
@@ -101,9 +101,8 @@ RS - Reference implementation
 ### WHO IS USING
 5G-MAG
 ### WHERE TO FIND
-- https://www.5g-mag.com/repositories
-- https://github.com/5G-MAG/Getting-Started/wiki/5G-Downlink-Media-Streaming
-- https://github.com/5G-MAG/Getting-Started/wiki/5G-Core-Network
+- [https://www.5g-mag.com/reference-tools](https://www.5g-mag.com/reference-tools)
+- [https://5g-mag.github.io/Getting-Started](https://5g-mag.github.io/Getting-Started)
 
 ## Reference Tools for 5G Broadcast
 ### SUMMARY
@@ -113,9 +112,8 @@ RS - Reference implementation
 ### WHO IS USING
 5G-MAG
 ### WHERE TO FIND
-- https://www.5g-mag.com/repositories
-- https://github.com/5G-MAG/Getting-Started/wiki/Multimedia-content-delivery
-- https://github.com/5G-MAG/Getting-Started/wiki/MBMS-&-LTE-based-5G-Broadcast
+- [https://www.5g-mag.com/reference-tools](https://www.5g-mag.com/reference-tools)
+- [https://5g-mag.github.io/Getting-Started](https://5g-mag.github.io/Getting-Started)
 
 ## Reference Tools for 3D and XR over 5G
 ### SUMMARY
@@ -125,8 +123,8 @@ RS - Reference implementation
 ### WHO IS USING
 5G-MAG, MPEG
 ### WHERE TO FIND
-- https://www.5g-mag.com/repositories
-- https://github.com/5G-MAG/Getting-Started/wiki/3D-and-XR-based-on-MPEG%E2%80%90I-Scene-Description
+- [https://www.5g-mag.com/reference-tools](https://www.5g-mag.com/reference-tools)
+- [https://5g-mag.github.io/Getting-Started](https://5g-mag.github.io/Getting-Started)
 
 ***
 
@@ -139,10 +137,10 @@ RS/TV - Reference implementations and Test Vectors, device coverage tests
 ### WHO IS USING
 DVB, HbbTV
 ### WHERE TO FIND
-- https://refapp.hbbtv.org/ 
-- https://github.com/HbbTV-Association/ReferenceApplication (with possibility to reference 3rd party streams - check https://github.com/HbbTV-Association/ReferenceApplication/blob/master/doc/3rdpartycontent.md)
-- https://www.hbbtv.org/resource-library/#developer-support 
-- Test material: https://refapp.hbbtv.org/videos
+- [https://refapp.hbbtv.org/]([https://refapp.hbbtv.org/])
+- [https://github.com/HbbTV-Association/ReferenceApplication](https://github.com/HbbTV-Association/ReferenceApplication) (with possibility to reference 3rd party streams - check [https://github.com/HbbTV-Association/ReferenceApplication/blob/master/doc/3rdpartycontent.md](https://github.com/HbbTV-Association/ReferenceApplication/blob/master/doc/3rdpartycontent.md))
+- [https://www.hbbtv.org/resource-library/#developer-support](https://www.hbbtv.org/resource-library/#developer-support) 
+- Test material: [https://refapp.hbbtv.org/videos](https://refapp.hbbtv.org/videos)
 
 ***
 
@@ -155,8 +153,8 @@ TS/CS - Conformance Tools
 ### WHO IS USING
 MPEG
 ### WHERE TO FIND
-- https://github.com/MPEGGroup/FileFormatConformance
-- https://mpeggroup.github.io/FileFormatConformance/
+- [https://github.com/MPEGGroup/FileFormatConformance](https://github.com/MPEGGroup/FileFormatConformance)
+- [https://mpeggroup.github.io/FileFormatConformance/](https://mpeggroup.github.io/FileFormatConformance/)
 
 ***
 
@@ -179,7 +177,7 @@ RS - Reference implementations (CMCD, CMSD, ID23 parsing, Common Media Request/R
 ### WHO IS USING
 SVTA, hls.js, dash.js, video.js, Shaka Player
 ### WHERE TO FIND
-- Github: https://github.com/streaming-video-technology-alliance/common-media-library
+- Github: [https://github.com/streaming-video-technology-alliance/common-media-library](https://github.com/streaming-video-technology-alliance/common-media-library)
 - NPM: @svta/common-media-library
-- Docs: https://streaming-video-technology-alliance.github.io/common-media-library/
-- Open call for new features: https://github.com/streaming-video-technology-alliance/common-media-library/discussions/54
+- Docs: [https://streaming-video-technology-alliance.github.io/common-media-library/](https://streaming-video-technology-alliance.github.io/common-media-library/)
+- Open call for new features: [https://github.com/streaming-video-technology-alliance/common-media-library/discussions/54](https://github.com/streaming-video-technology-alliance/common-media-library/discussions/54)
