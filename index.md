@@ -12,13 +12,13 @@ has_children: true
 Raise an [issue](https://github.com/osmart-community/.github/issues) and give us your contact (GitHub handle) if you wish to be added to the Team.
 
 ## Contents
-- [CTA WAVE](https://github.com/osmart-community#cta-wave)
-- [DASH-IF](https://github.com/osmart-community#dash-if)
-- [DVB](https://github.com/osmart-community#dvb-project)
-- [5G-MAG](https://github.com/osmart-community#5g-mag)
-- [HbbTV](https://github.com/osmart-community#hbbtv-association)
-- [MPEG](https://github.com/osmart-community#mpeg)
-- [SVTA](https://github.com/osmart-community#svta)
+- [CTA WAVE](#cta-wave)
+- [DASH-IF](#dash-if)
+- [DVB](#dvb-project)
+- [5G-MAG](#5g-mag)
+- [HbbTV](#hbbtv-association)
+- [MPEG](#mpeg)
+- [SVTA](#svta)
 
 ***
  
