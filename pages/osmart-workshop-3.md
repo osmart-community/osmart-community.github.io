@@ -11,7 +11,7 @@ Join us for a new edition of the OSMART Workshop.
 ![OSMART_workshop_3](../assets/images/osmart3.jpg)
 
 ## REGISTER NOW!
-Please use **[this link](https://us06web.zoom.us/meeting/register/tZIpde-hqjgjH9Q7i_au6ixY2__3vWIybWvm)** to register
+### Please use **[this link](https://us06web.zoom.us/meeting/register/tZIpde-hqjgjH9Q7i_au6ixY2__3vWIybWvm)** to register.
 
 ### WHY ARE WE MEETING?
 The main motivation to meet at the OSMART Workshop #3 is to detect overlapping topics around streaming and media delivery in the different software projects and reference implementations made avaiable by different industry organizations. With this we aim at, for example,:
@@ -22,10 +22,10 @@ The main motivation to meet at the OSMART Workshop #3 is to detect overlapping t
 * exchange information about challenges, opportunitities, methodology of work, etc.
 
 ### WHEN ARE WE MEETING?
-We are planning to meet on the 5th December for two and a half hours, from 16:00 to 18:30 CET (14:00 to 16:30 UTC)
+We are planning to meet on the 5th December for two and a half hours, from 16:00 to 18:30 CET (14:00 to 16:30 UTC).
 
-## WHERE ARE WE MEETING?
-On-line via Zoom
+### WHERE ARE WE MEETING?
+On-line via Zoom.
 
-## WHO CAN ATTEND?
-Everybody is welcome
+### WHO CAN ATTEND?
+The workshop is public and free to attend. Everybody is welcome.
