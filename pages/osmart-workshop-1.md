@@ -1,7 +1,7 @@
 ---
 layout: default
 title: OSMART Workshop 1
-nav_order: 0
+nav_order: 3
 has_children: true
 ---
 
