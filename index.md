@@ -21,7 +21,7 @@ Raise an [issue](https://github.com/osmart-community/.github/issues) and give us
 
 ## OSMART Workshop #3
 
-We are meeting again on the 5th December 2024. [**Register now!**](./pages/osmart-workshop-3.html)
+We are meeting again on the 5th December 2024. **[Register now!](./pages/osmart-workshop-3.html)**
 
 ![OSMART_workshop_3](./assets/images/osmart3.jpg)
 
