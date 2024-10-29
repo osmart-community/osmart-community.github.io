@@ -7,6 +7,7 @@ has_children: true
 
 # 05.12.24 - OSMART Workshop #3
 Join us for a new edition of the OSMART Workshop.
+
 ![OSMART_workshop_3](../assets/images/osmart3.jpg)
 
 ## REGISTER NOW!
