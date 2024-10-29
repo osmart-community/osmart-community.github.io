@@ -14,8 +14,9 @@ Join us for a new edition of the OSMART Workshop.
 ### Please use **[this link](https://us06web.zoom.us/meeting/register/tZIpde-hqjgjH9Q7i_au6ixY2__3vWIybWvm)** to register.
 
 ### WHY ARE WE MEETING?
-The main motivation to meet at the OSMART Workshop #3 is to detect overlapping topics around streaming and media delivery in the different software projects and reference implementations made avaiable by different industry organizations. With this we aim at, for example,:
+The main motivation behind OSMART Workshop #3 is to detect overlapping topics around streaming and media delivery in the different software projects and reference implementations made available by different industry organizations.
 
+We aim at:
 * detecting opportunities for cooperation
 * update each other on the progress of the projects and availability of tools
 * gather information about how to use the tools for testing and in production
