@@ -7,7 +7,7 @@ has_children: true
 
 # 05.12.24 - OSMART Workshop #3
 Agenda, speaker information and slides are available [here](https://www.5g-mag.com/post/06-07-12-23-osmart-workshop-2)
-![OSMART_workshop_3_1280x720](https://github.com/user-attachments/assets/98306dd7-3bba-4e2f-ad14-3d4be63e7fb0)
+![OSMART_workshop_3](../assets/images/osmart3.jpg)
 
 # REGISTER NOW!
 Please use the following link to resiter
