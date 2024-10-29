@@ -23,7 +23,7 @@ We aim at:
 * exchange information about challenges, opportunitities, methodology of work, etc.
 
 ### WHEN ARE WE MEETING?
-We are planning to meet on the 5th December for two and a half hours, from 16:00 to 18:30 CET (14:00 to 16:30 UTC).
+We are planning to meet on the 5th December for two and a half hours, from 16:00 to 18:30 CET (15:00 to 17:30 UTC).
 
 ### WHERE ARE WE MEETING?
 On-line via Zoom.
