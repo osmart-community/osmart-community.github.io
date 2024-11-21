@@ -7,7 +7,7 @@ has_children: true
 
 # 05.12.24 - OSMART Workshop #3
 
-<img src="../assets/images/osmart3.jpg" alt="Workshop logo" width="50%"/>
+<img src="../assets/images/osmart3.jpg" alt="Workshop logo" width="40%"/>
 
 ## REGISTER NOW!
 ### The workshop will take place on Zoom. You must **[register here](https://us06web.zoom.us/meeting/register/tZIpde-hqjgjH9Q7i_au6ixY2__3vWIybWvm)** to join.
@@ -25,7 +25,7 @@ Precise timings will be added closer to the event.
 
 ### DVB Project
 * Update on DVB-MABR Verification & Validation - by Romain Bouqueau, MotionSpell
-* DVB-I Reference Application: latest updates and future plans – by TBC
+* DVB-I Reference Application: latest updates, including in relation to DVB-NIP (Native IP broadcasting) – by Juha Joki, Sofia Digital
 
 ### SVTA & DASH-IF
 * DASH-IF livesim2 – a test ground for live DASH streaming – by Torbjörn Einarsson , Eyevinn
