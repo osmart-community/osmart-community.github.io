@@ -23,15 +23,17 @@ We aim at:
 * exchange information about challenges, opportunitities, methodology of work, etc.
 
 ### WHEN ARE WE MEETING?
-We are planning to meet on the 5th December for two and a half hours, from 16:00 to 18:30 CET (15:00 to 17:30 UTC).
+5 December 2024, from 16:00 to 18:30 CET (15:00 to 17:30 UTC).
 
 ### WHERE ARE WE MEETING?
-On-line via Zoom.
+On-line via **[Zoom](https://us06web.zoom.us/meeting/register/tZIpde-hqjgjH9Q7i_au6ixY2__3vWIybWvm)**.
 
 ### WHO CAN ATTEND?
 The workshop is public and free to attend. Everybody is welcome.
 
 ## AGENDA
+
+Precise timings will be added closer to the event.
 
 ### 5G-MAG
 * Updates on 5G-MAG Reference Tools (Media Streaming, 5G Broadcast, XR, 5MBS, V3C, etc.) – by Jordi J. Giménez, Daniel Silhavy, Nils Duval, Richard Bradbury
