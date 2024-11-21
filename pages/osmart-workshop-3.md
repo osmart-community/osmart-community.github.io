@@ -11,7 +11,7 @@ Join us for a new edition of the OSMART Workshop.
 ![OSMART_workshop_3](../assets/images/osmart3.jpg)
 
 ## REGISTER NOW!
-### Please use **[this link](https://us06web.zoom.us/meeting/register/tZIpde-hqjgjH9Q7i_au6ixY2__3vWIybWvm)** to register.
+### The workshop will take place Zoom. You must **[register here](https://us06web.zoom.us/meeting/register/tZIpde-hqjgjH9Q7i_au6ixY2__3vWIybWvm)** to join.
 
 ## AGENDA
 
