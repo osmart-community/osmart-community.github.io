@@ -30,3 +30,20 @@ On-line via Zoom.
 
 ### WHO CAN ATTEND?
 The workshop is public and free to attend. Everybody is welcome.
+
+## AGENDA
+
+### 5G-MAG
+* Updates on 5G-MAG Reference Tools (Media Streaming, 5G Broadcast, XR, 5MBS, V3C, etc.) – by Jordi J. Giménez, Daniel Silhavy, Nils Duval, Richard Bradbury
+
+### CTA WAVE
+* Update on Joint Content Conformance Project (JCCP) – by Romain Bouqueau, MotionSpell
+* Updates on CTA WAVE Media Streaming Test Suite – Louay Bassbouss (Fraunhofer FOKUS) 
+
+### DVB Project
+* Update on DVB-MABR Verification & Validation - by Romain Bouqueau, MotionSpell
+* DVB-I Reference Application: latest updates and future plans – by TBC
+
+### SVTA & DASH-IF
+* DASH-IF livesim2 – a test ground for live DASH streaming – by Daniel Silhavy, Fraunhofer FOKUS
+* dash.js – The open-source DASH Reference Player – by Daniel Silhavy, Fraunhofer FOKUS
