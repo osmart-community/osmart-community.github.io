@@ -13,24 +13,6 @@ Join us for a new edition of the OSMART Workshop.
 ## REGISTER NOW!
 ### Please use **[this link](https://us06web.zoom.us/meeting/register/tZIpde-hqjgjH9Q7i_au6ixY2__3vWIybWvm)** to register.
 
-### WHY ARE WE MEETING?
-The main motivation behind OSMART Workshop #3 is to detect overlapping topics around streaming and media delivery in the different software projects and reference implementations made available by different industry organizations.
-
-We aim at:
-* detecting opportunities for cooperation
-* update each other on the progress of the projects and availability of tools
-* gather information about how to use the tools for testing and in production
-* exchange information about challenges, opportunitities, methodology of work, etc.
-
-### WHEN ARE WE MEETING?
-5 December 2024, from 16:00 to 18:30 CET (15:00 to 17:30 UTC).
-
-### WHERE ARE WE MEETING?
-On-line via **[Zoom](https://us06web.zoom.us/meeting/register/tZIpde-hqjgjH9Q7i_au6ixY2__3vWIybWvm)**.
-
-### WHO CAN ATTEND?
-The workshop is public and free to attend. Everybody is welcome.
-
 ## AGENDA
 
 Precise timings will be added closer to the event.
@@ -49,3 +31,25 @@ Precise timings will be added closer to the event.
 ### SVTA & DASH-IF
 * DASH-IF livesim2 – a test ground for live DASH streaming – by Daniel Silhavy, Fraunhofer FOKUS
 * dash.js – The open-source DASH Reference Player – by Daniel Silhavy, Fraunhofer FOKUS
+
+## BACKGROUND INFORMATION
+
+### WHY ARE WE MEETING?
+The main motivation behind OSMART Workshop #3 is to detect overlapping topics around streaming and media delivery in the different software projects and reference implementations made available by different industry organizations.
+
+We aim at:
+* detecting opportunities for cooperation
+* update each other on the progress of the projects and availability of tools
+* gather information about how to use the tools for testing and in production
+* exchange information about challenges, opportunitities, methodology of work, etc.
+
+### WHEN ARE WE MEETING?
+5 December 2024, from 16:00 to 18:30 CET (15:00 to 17:30 UTC).
+
+### WHERE ARE WE MEETING?
+On-line via **[Zoom](https://us06web.zoom.us/meeting/register/tZIpde-hqjgjH9Q7i_au6ixY2__3vWIybWvm)**.
+
+### WHO CAN ATTEND?
+The workshop is public and free to attend. Everybody is welcome.
+
+
