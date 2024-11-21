@@ -24,7 +24,7 @@ Precise timings will be added closer to the event.
 * Updates on CTA WAVE Streaming Media Test Suite - Devices – Louay Bassbouss (Fraunhofer FOKUS) 
 
 ### DVB Project
-* Update on DVB-MABR Verification & Validation - by Romain Bouqueau, MotionSpell
+* Update on DVB-MABR Verification & Validation - TBC
 * DVB-I Reference Application: latest updates, including in relation to DVB-NIP (Native IP broadcasting) – by Juha Joki, Sofia Digital
 
 ### SVTA & DASH-IF
