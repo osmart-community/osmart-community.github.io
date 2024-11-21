@@ -6,12 +6,11 @@ has_children: true
 ---
 
 # 05.12.24 - OSMART Workshop #3
-Join us for a new edition of the OSMART Workshop.
 
 <img src="../assets/images/osmart3.jpg" alt="Workshop logo" width="50%"/>
 
 ## REGISTER NOW!
-### The workshop will take place Zoom. You must **[register here](https://us06web.zoom.us/meeting/register/tZIpde-hqjgjH9Q7i_au6ixY2__3vWIybWvm)** to join.
+### The workshop will take place on Zoom. You must **[register here](https://us06web.zoom.us/meeting/register/tZIpde-hqjgjH9Q7i_au6ixY2__3vWIybWvm)** to join.
 
 ## AGENDA
 
