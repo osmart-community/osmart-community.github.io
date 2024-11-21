@@ -21,15 +21,17 @@ Precise timings will be added closer to the event.
 
 ### CTA WAVE
 * Update on Joint Content Conformance Project (JCCP) – by Romain Bouqueau, MotionSpell
-* Updates on CTA WAVE Media Streaming Test Suite – Louay Bassbouss (Fraunhofer FOKUS) 
+* Updates on CTA WAVE Streaming Media Test Suite - Devices – Louay Bassbouss (Fraunhofer FOKUS) 
 
 ### DVB Project
 * Update on DVB-MABR Verification & Validation - by Romain Bouqueau, MotionSpell
 * DVB-I Reference Application: latest updates and future plans – by TBC
 
 ### SVTA & DASH-IF
-* DASH-IF livesim2 – a test ground for live DASH streaming – by Daniel Silhavy, Fraunhofer FOKUS
-* dash.js – The open-source DASH Reference Player – by Daniel Silhavy, Fraunhofer FOKUS
+* DASH-IF livesim2 – a test ground for live DASH streaming – by Torbjörn Einarsson , Eyevinn
+* dash.js – The open-source DASH Reference Player – by Daniel Silhavy, Fraunhofer FOKUS 
+* CML - The SVTA Common Media Library - Casey Occhialini, Paramount 
+* SVTA Sandbox - A framework to standup a streaming workflow - Jason Thibeault, SVTA
 
 ## BACKGROUND INFORMATION
 
