@@ -12,6 +12,8 @@ has_children: true
 ## REGISTER NOW!
 ### The workshop will take place on Zoom. You must **[register here](https://us06web.zoom.us/meeting/register/tZIpde-hqjgjH9Q7i_au6ixY2__3vWIybWvm)** to join.
 
+---
+
 ## AGENDA
 
 Precise timings will be added closer to the event.
@@ -32,6 +34,8 @@ Precise timings will be added closer to the event.
 * dash.js – The open-source DASH Reference Player – by Daniel Silhavy, Fraunhofer FOKUS 
 * CML - The SVTA Common Media Library - Casey Occhialini, Paramount 
 * SVTA Sandbox - A framework to standup a streaming workflow - Jason Thibeault, SVTA
+
+---
 
 ## BACKGROUND INFORMATION
 
