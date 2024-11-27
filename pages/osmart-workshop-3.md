@@ -1,6 +1,7 @@
 ---
 layout: default
 title: OSMART Workshop 3
+parent: Workshops
 nav_order: 0
 has_children: false
 ---
