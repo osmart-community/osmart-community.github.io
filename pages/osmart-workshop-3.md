@@ -33,11 +33,11 @@ The workshop begins at 16:00 CET. We will take project-specific questions immedi
 ### [5G-MAG](https://www.5g-mag.com/)
 (30 mins in total)
 * 5G-MAG Reference Tools for Media Delivery - by Jordi J. Giménez (5G-MAG), Daniel Silhavy (Fraunhofer FOKUS), Nils Duval (MotionSpell)
- * 5G Media Streaming
- * UE Data Collection
- * 5G Broadcast
- * 5G MBS
- * Teaser on XR and V3C
+  * 5G Media Streaming
+  * UE Data Collection
+  * 5G Broadcast
+  * 5G MBS
+  * Teaser on XR and V3C
 
 ### [DVB Project](https://dvb.org)
 (10 mins per project)
