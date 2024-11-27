@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 0
-has_children: true
+has_children: false
 ---
 
 <img src="{{site.baseurl}}/assets/images/osmart.png" alt="osmart" style="height:50px">
