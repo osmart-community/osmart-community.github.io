@@ -5,6 +5,8 @@ nav_order: 1
 has_children: false
 ---
 
+# Projects involved in OSMART
+
 ## Contents
 - [CTA WAVE](#cta-wave)
 - [DASH-IF](#dash-if)
