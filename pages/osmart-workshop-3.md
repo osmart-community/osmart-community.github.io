@@ -16,7 +16,7 @@ has_children: true
 
 ## AGENDA
 
-The workshop begins at 16:00 CET.
+The workshop begins at 16:00 CET. We will take project-specific questions immediately after each presentation and have a general discussion at the end.
 
 ### [SVTA](https://www.svta.org/) & [DASH-IF](https://dashif.org/)
 (10 mins per project)
@@ -44,6 +44,9 @@ The workshop begins at 16:00 CET.
 * Update on DVB-MABR (Multicast Adaptive Bitrate streaming) Verification & Validation - by Romain Bouqueau (MotionSpell)
 * DVB-I Reference Application - latest updates, including in relation to DVB-NIP (Native IP broadcasting) – by Juha Joki (Sofia Digital)
 
+### Q&A / Discussion
+
+When all presentations have been completed, we will have time to discuss future collaboration, synergies, next steps, etc.
 
 ---
 
