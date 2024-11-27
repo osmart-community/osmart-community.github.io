@@ -16,24 +16,34 @@ has_children: true
 
 ## AGENDA
 
-Precise timings will be added closer to the event.
+The workshop begins at 16:00 CET.
 
-### 5G-MAG
-* Updates on 5G-MAG Reference Tools (Media Streaming, 5G Broadcast, XR, 5MBS, V3C, etc.) – by Jordi J. Giménez, Daniel Silhavy, Nils Duval, Richard Bradbury
+### [SVTA](https://www.svta.org/) & [DASH-IF](https://dashif.org/)
+(10 mins per project)
+* DASH-IF livesim2 – a test ground for live DASH streaming – by Torbjörn Einarsson (Eyevinn)
+* dash.js – The open-source DASH Reference Player – by Daniel Silhavy (Fraunhofer FOKUS) 
+* CML - The SVTA Common Media Library - Casey Occhialini (Paramount) 
+* SVTA Sandbox - A framework to standup a streaming workflow - Jason Thibeault (SVTA)
 
-### CTA WAVE
-* Update on Joint Content Conformance Project (JCCP) – by Romain Bouqueau, MotionSpell
-* Updates on CTA WAVE Streaming Media Test Suite - Devices – Louay Bassbouss (Fraunhofer FOKUS) 
+### [CTA WAVE](https://www.cta.tech/Resources/Standards/WAVE-Project)
+(10 mins per project)
+* Joint Content Conformance Project (JCCP) - a validator for DASH content – by Romain Bouqueau (MotionSpell)
+* CTA WAVE Streaming Media Test Suite for Devices - testing of web-based media playback on smart devices – Louay Bassbouss (Fraunhofer FOKUS) 
 
-### DVB Project
-* Update on DVB-MABR (Multicast Adaptive Bitrate streaming) Verification & Validation - by Romain Bouqueau, MotionSpell
-* DVB-I Reference Application: latest updates, including in relation to DVB-NIP (Native IP broadcasting) – by Juha Joki, Sofia Digital
+### [5G-MAG](https://www.5g-mag.com/)
+(30 mins in total)
+* 5G-MAG Reference Tools for Media Delivery - by Jordi J. Giménez (5G-MAG), Daniel Silhavy (Fraunhofer FOKUS), Nils Duval (MotionSpell)
+ * 5G Media Streaming
+ * UE Data Collection
+ * 5G Broadcast
+ * 5G MBS
+ * Teaser on XR and V3C
 
-### SVTA & DASH-IF
-* DASH-IF livesim2 – a test ground for live DASH streaming – by Torbjörn Einarsson , Eyevinn
-* dash.js – The open-source DASH Reference Player – by Daniel Silhavy, Fraunhofer FOKUS 
-* CML - The SVTA Common Media Library - Casey Occhialini, Paramount 
-* SVTA Sandbox - A framework to standup a streaming workflow - Jason Thibeault, SVTA
+### [DVB Project](https://dvb.org)
+(10 mins per project)
+* Update on DVB-MABR (Multicast Adaptive Bitrate streaming) Verification & Validation - by Romain Bouqueau (MotionSpell)
+* DVB-I Reference Application - latest updates, including in relation to DVB-NIP (Native IP broadcasting) – by Juha Joki (Sofia Digital)
+
 
 ---
 
