@@ -1,8 +1,9 @@
 ---
 layout: default
 title: OSMART Workshop 2
-nav_order: 3
-has_children: true
+parent: Workshops
+nav_order: 2
+has_children: false
 ---
 
 # 06-07.12.23 - OSMART Workshop #2
