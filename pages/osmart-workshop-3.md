@@ -2,7 +2,7 @@
 layout: default
 title: OSMART Workshop 3
 nav_order: 4
-has_children: true
+has_children: false
 ---
 
 # 05.12.24 - OSMART Workshop #3
