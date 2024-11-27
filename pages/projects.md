@@ -7,6 +7,8 @@ has_children: false
 
 # Projects involved in OSMART
 
+This page features information about projects that have been presented in at least one previous OSMART workshop. Project participants are invited to update the information below, creating a pull request that will be reviewed by the admins.
+
 ## Contents
 - [CTA WAVE](#cta-wave)
 - [DASH-IF](#dash-if)
