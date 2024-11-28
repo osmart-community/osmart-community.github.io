@@ -38,7 +38,7 @@ The workshop begins at 16:00 CET. We will take project-specific questions immedi
   * UE Data Collection: Collecting UE data and exposing it to downstream consumers.
   * 5G Broadcast: TV and Radio on streaming apps scaled with 5G Broadcast.
   * 5G MBS: Initial steps to scale traffic with multicast with NG-RAN and 5GC.
-  * Teaser on XR and V3C: Our new projects on Immersive Media and Beyond 2D.
+  * Teaser on XR and Volumetric Video: Our new projects on Immersive Media and Beyond 2D.
 
 ### [DVB Project](https://dvb.org)
 (10 mins per project)
