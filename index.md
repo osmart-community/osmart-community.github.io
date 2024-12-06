@@ -15,7 +15,7 @@ The OSMART (Open-Source Media Application Reference Tools) workshop is a regular
 
 ## OSMART Workshop #3
 
-We are meeting for the third time on 5 December 2024. **[Agenda and Registration](./pages/osmart-workshop-3.html)**
+We are meeting for the third time on 5 December 2024. **[Agenda and Recording](./pages/osmart-workshop-3.html)**
 
 <a href="./pages/osmart-workshop-3.html"><img src="./assets/images/osmart3.jpg" alt="Workshop logo" width="50%"/></a>
 
