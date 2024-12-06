@@ -10,8 +10,9 @@ has_children: false
 
 <img src="../assets/images/osmart3.jpg" alt="Workshop logo" width="40%"/>
 
-## REGISTER NOW!
-### The workshop will take place on Zoom. You must **[register here](https://us06web.zoom.us/meeting/register/tZIpde-hqjgjH9Q7i_au6ixY2__3vWIybWvm)** to join.
+## RECORDING
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WMiT1QJaJDM?si=j8tOAU51aVxq1GgR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
