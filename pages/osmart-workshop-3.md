@@ -21,23 +21,27 @@ has_children: false
 The workshop begins at 16:00 CET. We will take project-specific questions immediately after each presentation and have a general discussion at the end.
 
 ### [SVTA](https://www.svta.org/) & [DASH-IF](https://dashif.org/)
-[**DOWNLOAD SLIDES**](https://github.com/osmart-community/osmart-community.github.io/raw/refs/heads/main/slides/workshop-3/OSMART24-SVTA.pptx.pdf)
-(10 mins per project)
+
+[**DOWNLOAD ALL SLIDES**](https://github.com/osmart-community/osmart-community.github.io/raw/refs/heads/main/slides/workshop-3/OSMART24-SVTA.pptx.pdf)
+
 * DASH-IF livesim2 – a test ground for live DASH streaming – by Torbjörn Einarsson (Eyevinn)
 * dash.js – The open-source DASH Reference Player – by Daniel Silhavy (Fraunhofer FOKUS) 
 * CML - The SVTA Common Media Library - Casey Occhialini (Paramount) 
 * SVTA Sandbox - A framework to standup a streaming workflow - Jason Thibeault (SVTA)
 
 ### [CTA WAVE](https://www.cta.tech/Resources/Standards/WAVE-Project)
-[**DOWNLOAD SLIDES 1**](https://github.com/osmart-community/osmart-community.github.io/raw/refs/heads/main/slides/workshop-3/2024-12-05-WAVE-Streaming-Media-Test-Suite-Devices-OSMART-Workshop%233.pdf)
-[**DOWNLOAD SLIDES 2**](https://github.com/osmart-community/osmart-community.github.io/raw/refs/heads/main/slides/workshop-3/OSMART%202024_%20Joint%20Content%20Conformance%20Project%20(JCCP)%20-%20a%20validator%20for%20DASH%20and%20HLS%20content.pdf)
-(10 mins per project)
+
+[**DOWNLOAD SLIDES 1**](https://github.com/osmart-community/osmart-community.github.io/raw/refs/heads/main/slides/workshop-3/OSMART%202024_%20Joint%20Content%20Conformance%20Project%20(JCCP)%20-%20a%20validator%20for%20DASH%20and%20HLS%20content.pdf)
+
+[**DOWNLOAD SLIDES 2**](https://github.com/osmart-community/osmart-community.github.io/raw/refs/heads/main/slides/workshop-3/2024-12-05-WAVE-Streaming-Media-Test-Suite-Devices-OSMART-Workshop%233.pdf)
+
 * Joint Content Conformance Project (JCCP) - a validator for DASH content – by Romain Bouqueau (MotionSpell)
 * CTA WAVE Streaming Media Test Suite for Devices - testing of web-based media playback on smart devices – Louay Bassbouss (Fraunhofer FOKUS) 
 
 ### [5G-MAG](https://www.5g-mag.com/)
-[**DOWNLOAD SLIDES**](https://github.com/osmart-community/osmart-community.github.io/raw/refs/heads/main/slides/workshop-3/OSMART24-SVTA.pptx.pdf)
-(30 mins in total)
+
+[**DOWNLOAD ALL SLIDES**](https://github.com/osmart-community/osmart-community.github.io/raw/refs/heads/main/slides/workshop-3/OSMART24-SVTA.pptx.pdf)
+
 * 5G-MAG Reference Tools for Media Delivery - by Jordi J. Giménez (5G-MAG), Daniel Silhavy (Fraunhofer FOKUS), Nils Duval (MotionSpell)
   * 5G Media Streaming: Collaboration between media apps and mobile networks (Network assistance, QoE Metrics reporting, Consumption reporting,...).
   * UE Data Collection: Collecting UE data and exposing it to downstream consumers.
@@ -46,9 +50,11 @@ The workshop begins at 16:00 CET. We will take project-specific questions immedi
   * Teaser on XR and Volumetric Video: Our new projects on Immersive Media and Beyond 2D.
 
 ### [DVB Project](https://dvb.org)
+
 [**DOWNLOAD SLIDES 1**](https://github.com/osmart-community/osmart-community.github.io/raw/refs/heads/main/slides/workshop-3/OSMART%202024%20-%20DVB-MABR%20(Multicast%20Adaptive%20Bitrate%20streaming)%20Verification%20%26%20Validation.pdf)
+
 [**DOWNLOAD SLIDES 2**](https://github.com/osmart-community/osmart-community.github.io/raw/refs/heads/main/slides/workshop-3/OSMART-DVB-I%20Reference%20Tools-2024.pdf)
-(10 mins per project)
+
 * Update on DVB-MABR (Multicast Adaptive Bitrate streaming) Verification & Validation - by Romain Bouqueau (MotionSpell)
 * DVB-I Reference Application - latest updates, including in relation to DVB-NIP (Native IP broadcasting) – by Juha Joki (Sofia Digital)
 
