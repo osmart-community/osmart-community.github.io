@@ -88,6 +88,16 @@ DVB, HbbTV
 - CSR: [https://github.com/DVBProject/DVB-I-Reference-CSR](https://github.com/DVBProject/DVB-I-Reference-CSR)
 - DVB-I Reference Client: [https://github.com/DVBproject/DVB-I-Reference-Client](https://github.com/DVBproject/DVB-I-Reference-Client)
 
+## DVB-MABR Validation Tool
+### SUMMARY
+A custom application, leveraging [GPAC](https://gpac.io/) (an open-source multimedia framework), for verification and validation (V&V) of the DVB-MABR (Multicast Adaptive Bitrate streaming) specification. Allows implementers to test their DVB-MABR implementation. The Python script is designed to configure and run a media processing application using the GPAC library to set up a DVB-MABR session.
+### SCOPE
+RS - V&V
+### WHO IS USING
+DVB
+### WHERE TO FIND
+- DVB-MABR Tool on GitHub: [https://github.com/MotionSpell/DVB-MABR-Tool/](https://github.com/MotionSpell/DVB-MABR-Tool/)
+
 ***
 
 # 5G-MAG
